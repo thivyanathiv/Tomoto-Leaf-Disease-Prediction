@@ -16,7 +16,7 @@ The frontend is designed using HTML and CSS, which allows users to upload an ima
 ## Prerequisites
 Before running the application, ensure that you have the following installed:
 
-1. **Python 3.12**
+1. **Python 3.11**
 2. **Flask**: A micro web framework for Python.
 3. **TensorFlow/Keras or PyTorch**: For loading and running the machine learning model.
 4. **Other Python Libraries**:
